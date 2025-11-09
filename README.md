@@ -1,5 +1,5 @@
 # About Me
-Hi! I'm Cheng Zhi Min and I'm from Butterworth, Penang. I'm currently a Year 1 Computer Science (Data Engineering) student studying at Universiti Teknologi Malaysia (UTM). Basically why I choose Computer Science for my Bachelor's Degree is because I like coding and mathematics. Feel free to check out the cool projects that I've made on my page ;)
+Hi! I'm Cheng Zhi Min (call me Zhi Min) and I'm from Butterworth, Penang. I'm currently a Year 1 Computer Science (Data Engineering) student studying at Universiti Teknologi Malaysia (UTM). Basically why I choose Computer Science for my Bachelor's Degree is because I like coding and mathematics. Feel free to check out the cool projects that I've made on my page ;)
 # Education
 2025-2029: Universiti Teknologi Malaysia Johor Bahru
 - Bachelor of Computer Science (Data Engineering) with Honours
