@@ -8,7 +8,7 @@ Hi! I'm Cheng Zhi Min and I'm from Butterworth, Penang. I'm currently a Year 1 C
 - Foundation in Physical Science, CGPA: 4.00
 
 2019-2023: SMJK Chung Ling Butterworth
-- SPM: 9A 1B
+- SPM: 9A
 
 # Position
 - Vice Chairman of Chung Ling Butterworth Wind Orchestra (CLBWO)
