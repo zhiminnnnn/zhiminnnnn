@@ -15,9 +15,11 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 - Vice Chairman of Chung Ling Butterworth Wind Orchestra (CLBWO)
 
 # Skills
-- Microsoft Office (Word, Excel, PowerPoint)
 - Canva
-- Programming Language (Python, Java, C++, SQL)
+- Microsoft Office (Excel, PowerPoint, Word)
+- Programming Language (C++)
+- Written Language (Chinese, English, Malay)
+- Spoken Language (Chinese, English, Malay, Hokkien)
 
 # Awards
 - Malaysia International Music Art Festival (MIMAF) 2019 - Gold with Honour
