@@ -9,7 +9,7 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 - MUET Band 4.0
 
 2019-2023: SMJK Chung Ling Butterworth
-- SPM: 9A （2A+ 4A 3A-)
+- SPM: 9A (2A+ 4A 3A-)
 
 # Position
 - Vice Chairman of Chung Ling Butterworth Wind Orchestra (CLBWO)
