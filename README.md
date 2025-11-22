@@ -8,10 +8,12 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 - Bachelor of Computer Science (Data Engineering) with Honours
 
 2024-2025: Universiti Teknologi Malaysia Kuala Lumpur
-- Foundation in Physical Science, CGPA: 4.00
+- Foundation in Physical Science
+- CGPA: 4.00
 - MUET Band 4.0
 
 2019-2023: SMJK Chung Ling Butterworth
+- Science Stream (Biology, Chemistry, Physics)
 - SPM: 9A (2A+ 4A 3A-)
 
 # Position
