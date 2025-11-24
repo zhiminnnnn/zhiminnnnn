@@ -16,6 +16,7 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 
 # Position
 - Vice Chairman of Chung Ling Butterworth Wind Orchestra (CLBWO)
+- Performer in Losting Music Club
 
 # Skills
 - Programming Language (C++)
