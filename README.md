@@ -30,5 +30,5 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 - Malaysia International Wind Festival (miwFEST) 2023 - Gold & 3rd place
 - Festival Kesenian Muzik Sekolah-sekolah Menengah 2023 - Gold with Honour & Champion
 
-# Recent Projects
+# Recent Project
 [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
