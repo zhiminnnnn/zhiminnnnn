@@ -15,6 +15,9 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 - SPM: 9A (2A+ 4A 3A-)
 
 # Position
+- Universiti Teknologi Malaysia
+  - Losting Music Club
+    - 2025-Present: Performer
 - SMJK Chung Ling Butterworth
   - Chung Ling Butterworth Wind Orchestra (CLBWO)
     - 2019-2023: Active Member
