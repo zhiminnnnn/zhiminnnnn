@@ -24,7 +24,6 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
   - Chung Ling Butterworth Wind Orchestra (CLBWO)
     - 2019-2023: Active Member
     - 2020-2021: Assistant Student Conductor
-    - 2021-2022: Assistant Score Keeper
     - 2021-2023: Section Leader
     - 2022-2023: Vice Chairman
 
@@ -49,6 +48,16 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
 
 [Personal Website](https://zhiminnnnn.github.io)
+
+# Courses
+[SECI1013 Discrete Structure](https://github.com/zhiminnnnn/DS)
+
+[SECJ1013 Programming Technique 1](https://github.com/zhiminnnnn/PT1)
+
+[SECP1513 Technology & Information System](https://github.com/zhiminnnnn/TIS)
+
+[SECR1013 Digital Logic](https://github.com/zhiminnnnn/DL)
+
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminnnnn)
