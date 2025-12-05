@@ -4,6 +4,7 @@
 Hi! I'm Zhi Min from Butterworth, Penang. Currently a Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM). I enjoy coding, problem-solving and mathematics.
 
 My website: [https://zhiminnnnn.github.io](https://zhiminnnnn.github.io)
+
 # Education
 2025-Present: Universiti Teknologi Malaysia (JB Campus)
 - Bachelor of Computer Science (Data Engineering) with Honours
@@ -27,7 +28,6 @@ SMJK Chung Ling Butterworth
   - 2021-2023: Section Leader
   - 2019-2023: Active Member
   
-
 # Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -42,12 +42,6 @@ SMJK Chung Ling Butterworth
 - [SECJ1013 Programming Technique 1](https://github.com/zhiminnnnn/PT1)
 - [SECP1513 Technology & Information System](https://github.com/zhiminnnnn/TIS)
 - [SECR1013 Digital Logic](https://github.com/zhiminnnnn/DL)
-
-# Achievements
-- Festival Kesenian Muzik Sekolah-sekolah Menengah 2023 - Gold with Honour & Champion
-- Malaysia International Wind Festival (miwFEST) 2023 - Gold & 3rd place
-- Grand STEM Challenge 2021 - Finalist (Physics)
-- Malaysia International Music Art Festival (MIMAF) 2019 - Gold with Honour
 
 # Recent Projects
 - [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
