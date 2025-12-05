@@ -52,7 +52,8 @@ SMJK Chung Ling Butterworth
 # Recent Projects
 - [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
 
-# Socials
+# Contact & Socials
+[![Static Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminnnnn)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zhiminnnnn)
 </div>
