@@ -48,4 +48,6 @@ SMJK Chung Ling Butterworth
 [![Static Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chengzhimin@graduate.utm.my)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminnnnn)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zhiminnnnn)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhiminnnnn&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
 </div>
