@@ -3,10 +3,10 @@
 # About Me
 Hi! I'm Zhi Min from Butterworth, Penang. Currently a Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM). I enjoy coding, problem-solving and mathematics. Check out my website at [https://zhiminnnnn.github.io](https://zhiminnnnn.github.io) :D
 # Education
-2025-Present: Universiti Teknologi Malaysia (JB Campus)
+2025-Present: Universiti Teknologi Malaysia Johor Bahru
 - Bachelor of Computer Science (Data Engineering) with Honours
 
-2024-2025: Universiti Teknologi Malaysia (KL Campus)
+2024-2025: Universiti Teknologi Malaysia Kuala Lumpur
 - Foundation in Physical Science
 - CGPA: 4.00
 - MUET Band 4.0
