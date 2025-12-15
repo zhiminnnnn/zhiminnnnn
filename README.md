@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&width=500&lines=Hi+there!%F0%9F%91%8B+My+name+is+Cheng+Zhi+Min" />
 </h1>
 
-**I'm currently a Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM). I enjoy coding, problem-solving and mathematics. Check out my website at [https://zhiminnnnn.github.io](https://zhiminnnnn.github.io) :D**
+<div align="center">
+**Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM)**
+
+**Check out my website at [https://zhiminnnnn.github.io](https://zhiminnnnn.github.io) :D**
+</div>
 
 ## 🎓Education
 *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
