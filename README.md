@@ -6,7 +6,7 @@
 
 **Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM)**
 
-**Check out my e-portfolio website at [https://zhiminnnnn.github.io](https://zhiminnnnn.github.io) :D**
+**E-portfolio website: [https://zhiminnnnn.github.io](https://zhiminnnnn.github.io)**
 </div>
 
 ## 🎓Education
