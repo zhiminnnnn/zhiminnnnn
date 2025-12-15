@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&width=500&lines=Hi+there!%F0%9F%91%8B+My+name+is+Cheng+Zhi+Min" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=23&pause=1000&width=500&lines=Hi+there!%F0%9F%91%8B+My+name+is+Cheng+Zhi+Min" />
 </h1>
 
 <div align="center">
@@ -10,24 +10,24 @@
 </div>
 
 ## 🎓Education
-*2025-Present: Universiti Teknologi Malaysia Johor Bahru*
+2025-Present: Universiti Teknologi Malaysia Johor Bahru
 - Bachelor of Computer Science (Data Engineering) with Honours
 
-*2024-2025: Universiti Teknologi Malaysia Kuala Lumpur*
+2024-2025: Universiti Teknologi Malaysia Kuala Lumpur
 - Foundation in Physical Science
 - CGPA: 4.00
 - MUET Band 4.0
 
-*2019-2023: SMJK Chung Ling Butterworth*
+2019-2023: SMJK Chung Ling Butterworth
 - SPM: 9A (2A+ 4A 3A-)
 
 ## 🤝Position
 Universiti Teknologi Malaysia
-- *Losting Music Club*
+- Losting Music Club
   - 2025-Present: Active Member
 
 SMJK Chung Ling Butterworth
-- *Chung Ling Butterworth Wind Orchestra (CLBWO)*
+- Chung Ling Butterworth Wind Orchestra (CLBWO)
   - 2022-2023: Vice President
   - 2021-2023: Section Leader
   - 2019-2023: Active Member
