@@ -7,9 +7,9 @@
 **Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM)**
 
 **E-portfolio website: [zhiminnnnn.github.io](https://zhiminnnnn.github.io)**
-</div>
 
 ![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
+</div>
 
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
