@@ -62,4 +62,4 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhiminnnnn&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
 
-![Snake animation](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake-dark.svg)
