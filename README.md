@@ -9,6 +9,8 @@
 **E-portfolio website: [zhiminnnnn.github.io](https://zhiminnnnn.github.io)**
 </div>
 
+![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
+
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
 - Bachelor of Computer Science (Data Engineering) with Honours
@@ -61,5 +63,3 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zhiminnnnn)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhiminnnnn&bg_color=191919&color=ffffff&line=14b8a6&point=ffffff&area=true&hide_border=true)
-
-![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
