@@ -45,10 +45,12 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📚Courses
-- [SECI1013 Discrete Structure](https://github.com/zhiminnnnn/DS)
-- [SECJ1013 Programming Technique 1](https://github.com/zhiminnnnn/PT1)
-- [SECP1513 Technology & Information System](https://github.com/zhiminnnnn/TIS)
-- [SECR1013 Digital Logic](https://github.com/zhiminnnnn/DL)
+| Code | Course | Link |
+| - | - | - |
+|SECI1013|Discrete Structure|[Click here](https://github.com/zhiminnnnn/DS)|
+|SECJ1013|Programming Technique 1|[Click here](https://github.com/zhiminnnnn/PT1)|
+|SECP1513|Technology & Information System|[Click here](https://github.com/zhiminnnnn/TIS)|
+|SECR1013|Digital Logic|[Click here](https://github.com/zhiminnnnn/DL)|
 
 ## 🚀Recent Projects
 - [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
