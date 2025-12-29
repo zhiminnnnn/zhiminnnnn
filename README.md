@@ -25,13 +25,17 @@ E-portfolio website: [zhiminnnnn.github.io](https://zhiminnnnn.github.io)
 
 ## 🤝Position
 Universiti Teknologi Malaysia
+```yaml
 Losting Music Club
 => 2025-Present: Active Member
+```
 SMJK Chung Ling Butterworth
+```yaml
 Chung Ling Butterworth Wind Orchestra (CLBWO)
 => 2022-2023: Vice President
 => 2021-2023: Section Leader
 => 2019-2023: Active Member
+```
   
 ## 🛠️Skills & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
