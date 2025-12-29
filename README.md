@@ -4,9 +4,9 @@
 
 <div align="center">
 
-**Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM)**
+Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM)
 
-**E-portfolio website: [Click here](https://zhiminnnnn.github.io)**
+E-portfolio website: [zhiminnnnn.github.io](https://zhiminnnnn.github.io)
 
 ![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
 </div>
@@ -21,21 +21,17 @@
 - MUET Band 4.0
 
 > *2019-2023: SMJK Chung Ling Butterworth*
-- SPM: 9A (2A+ 4A 3A-)
+- SPM: 9A (Math A+, Physics A+, AddMath A, Chemistry A)
 
 ## 🤝Position
 Universiti Teknologi Malaysia
-```yaml
 Losting Music Club
 => 2025-Present: Active Member
-```
 SMJK Chung Ling Butterworth
-```yaml
 Chung Ling Butterworth Wind Orchestra (CLBWO)
 => 2022-2023: Vice President
 => 2021-2023: Section Leader
 => 2019-2023: Active Member
-```
   
 ## 🛠️Skills & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -56,6 +52,7 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 
 ## 🚀Recent Projects
 - [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
+- [Design Thinking Project](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)
 
 ## 📬Contact & Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
