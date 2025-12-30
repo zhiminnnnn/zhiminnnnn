@@ -50,11 +50,11 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 
 ## 📚Courses
 | Code | Course | Link |
-| - | - | - |
-|SECI1013|Discrete Structure|[Click here](https://github.com/zhiminnnnn/DS)|
-|SECJ1013|Programming Technique 1|[Click here](https://github.com/zhiminnnnn/PT1)|
-|SECP1513|Technology & Information System|[Click here](https://github.com/zhiminnnnn/TIS)|
-|SECR1013|Digital Logic|[Click here](https://github.com/zhiminnnnn/DL)|
+| - | - | :-: |
+|SECI1013|Discrete Structure|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
+|SECJ1013|Programming Technique 1|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
+|SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
+|SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
 
 ## 🚀Recent Projects
 - [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
