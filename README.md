@@ -6,8 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=660&lines=Hi+there!%F0%9F%91%8B%F0%9F%8F%BB+My+name+is+Cheng+Zhi+Min" alt="Typing SVG" /></a>
 </h1>
 <div align="center">
-
-**Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM)**
+  
+![Static Badge](https://img.shields.io/badge/Year%201%20Computer%20Science%20(Data%20Engineering)%20student%20@%20Universiti%20Teknologi%20Malaysia%20(UTM)-black?style=for-the-badge)
 
 **E-portfolio website: [zhiminnnnn.github.io](https://zhiminnnnn.github.io)**
 ![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
