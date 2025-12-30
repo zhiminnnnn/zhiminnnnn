@@ -24,6 +24,7 @@
 
 > *2019-2023: SMJK Chung Ling Butterworth*
 - SPM: 9A (Math A+, Physics A+, AddMath A, Chemistry A)
+- Co-curriculum: 9.15
 
 ## 🤝Position
 Universiti Teknologi Malaysia
