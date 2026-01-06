@@ -59,7 +59,8 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 
 ## 🚀Recent Projects
 - [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
-- [Design Thinking Project](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)
+- [Design Thinking: Food Waste Analytics](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)
+- [Deeds Simulation: Advance Lift Controller System]()
 
 ## 📬Contact & Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
