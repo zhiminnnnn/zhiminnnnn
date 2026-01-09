@@ -58,9 +58,10 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 |SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
 
 ## 🚀Recent Projects
-- [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
-- [Design Thinking: Food Waste Analytics](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)
-- [Deeds Simulation: Advance Lift Controller System](https://github.com/zhiminnnnn/DL/blob/main/Project.md)
+| Title | Description | Link |
+| - | - | :-: |
+|Design Thinking: Food Waste Analytics|_"Re-Saji"_ — a low-fidelity prototype that uses real-time bookings, AI prediction, and behavior incentives to reduce food waste in UTM cafeterias by aligning food preparation with actual student demand.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)|
+|Deeds Simulation: Advance Lift Controller System||[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL/blob/main/Project.md)|
 
 ## 📬Contact & Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
