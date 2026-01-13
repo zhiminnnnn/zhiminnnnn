@@ -35,7 +35,7 @@ Losting Music Club
 SMJK Chung Ling Butterworth
 ```yaml
 Chung Ling Butterworth Wind Orchestra (CLBWO)
-=> 2022-2023: Vice President
+=> 2022-2023: Student Conductor
 => 2021-2023: Section Leader
 => 2019-2023: Active Member
 ```
