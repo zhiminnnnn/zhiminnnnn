@@ -13,6 +13,12 @@
 ![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
 </div>
 
+## 🚀Recent Projects
+| Title | Description | Link |
+| - | - | :-: |
+|Design Thinking: Food Waste Analytics|_"Re-Saji"_ — a low-fidelity prototype that uses real-time bookings, AI prediction, and behavior incentives to reduce food waste in UTM cafeterias by aligning food preparation with actual student demand.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)|
+|Deeds Simulation: Advance Lift Controller System|To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited-attempt security protocol.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL/blob/main/Project.md)|
+
 ## 📚Courses
 | Code | Course | Link |
 | - | - | :-: |
@@ -20,12 +26,6 @@
 |SECJ1013|Programming Technique 1|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
 |SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
 |SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
-
-## 🚀Recent Projects
-| Title | Description | Link |
-| - | - | :-: |
-|Design Thinking: Food Waste Analytics|_"Re-Saji"_ — a low-fidelity prototype that uses real-time bookings, AI prediction, and behavior incentives to reduce food waste in UTM cafeterias by aligning food preparation with actual student demand.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)|
-|Deeds Simulation: Advance Lift Controller System|To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited-attempt security protocol.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL/blob/main/Project.md)|
 
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
@@ -66,6 +66,5 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 ## 📬Contact & Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminnnnn)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zhiminnnnn)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhiminnnnn&bg_color=ffffff&color=000000&line=14b8a6&point=000000&area=true&hide_border=true)
