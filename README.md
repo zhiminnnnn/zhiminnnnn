@@ -13,6 +13,20 @@
 ![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
 </div>
 
+## 📚Courses
+| Code | Course | Link |
+| - | - | :-: |
+|SECI1013|Discrete Structure|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
+|SECJ1013|Programming Technique 1|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
+|SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
+|SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
+
+## 🚀Recent Projects
+| Title | Description | Link |
+| - | - | :-: |
+|Design Thinking: Food Waste Analytics|_"Re-Saji"_ — a low-fidelity prototype that uses real-time bookings, AI prediction, and behavior incentives to reduce food waste in UTM cafeterias by aligning food preparation with actual student demand.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)|
+|Deeds Simulation: Advance Lift Controller System|To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited-attempt security protocol.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL/blob/main/Project.md)|
+
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
 - Bachelor of Computer Science (Data Engineering) with Honours
@@ -48,20 +62,6 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📚Courses
-| Code | Course | Link |
-| - | - | :-: |
-|SECI1013|Discrete Structure|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
-|SECJ1013|Programming Technique 1|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
-|SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
-|SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
-
-## 🚀Recent Projects
-| Title | Description | Link |
-| - | - | :-: |
-|Design Thinking: Food Waste Analytics|_"Re-Saji"_ — a low-fidelity prototype that uses real-time bookings, AI prediction, and behavior incentives to reduce food waste in UTM cafeterias by aligning food preparation with actual student demand.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)|
-|Deeds Simulation: Advance Lift Controller System|To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited-attempt security protocol.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL/blob/main/Project.md)|
 
 ## 📬Contact & Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
