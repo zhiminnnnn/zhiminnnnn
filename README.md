@@ -8,6 +8,7 @@
 <div align="center">
   
 ![Static Badge](https://img.shields.io/badge/Year%201%20Computer%20Science%20(Data%20Engineering)%20student%20@%20Universiti%20Teknologi%20Malaysia%20(UTM)-black?style=for-the-badge)
+![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
 
 **E-portfolio website: [zhiminnnnn.github.io](https://zhiminnnnn.github.io)**
 
