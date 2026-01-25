@@ -69,7 +69,6 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 
 ## 🗃️Important GitHub Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhiminnnnn&repo=CppLearningJourney)](https://github.com/zhiminnnnn/CppLearningJourney)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhiminnnnn&repo=TIS)](https://github.com/zhiminnnnn/TIS)
 
 ## 📊My GitHub Stats
 [![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiminnnnn&show_icons=true)](https://github.com/zhiminnnnn/github-readme-stats)
