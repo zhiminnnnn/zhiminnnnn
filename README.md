@@ -68,9 +68,7 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🗃️Important GitHub Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhiminnnnn&repo=CppLearningJourney)](https://github.com/zhiminnnnn/CppLearningJourney)
+[CPPLearningJourney](https://github.com/zhiminnnnn/CppLearningJourney)
 
 ## 📊My GitHub Stats
-[![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiminnnnn&show_icons=true)](https://github.com/zhiminnnnn/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiminnnnn&layout=compact)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhiminnnnn&bg_color=ffffff&color=000000&line=14b8a6&point=000000&area=true&hide_border=true)
