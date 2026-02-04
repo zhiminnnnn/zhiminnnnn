@@ -19,7 +19,7 @@
 |Deeds Simulation: Advance Lift Controller System|To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited-attempt security protocol.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL/blob/main/Project.md)|
 
 ## 📚Courses
-Year 1 Semester 1:
+Year 1 Semester 1
 | Code | Course | Link |
 | - | - | :-: |
 |SECI1013|Discrete Structure|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
