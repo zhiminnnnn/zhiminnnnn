@@ -30,6 +30,7 @@ Year 1 Semester 1
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
 - Bachelor of Computer Science (Data Engineering) with Honours
+- CGPA: 
 
 > *2024-2025: Universiti Teknologi Malaysia Kuala Lumpur*
 - Foundation in Physical Science
@@ -65,7 +66,7 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🗃️Important GitHub Repos
-[CPPLearningJourney](https://github.com/zhiminnnnn/CppLearningJourney)
+[CppLearningJourney](https://github.com/zhiminnnnn/CppLearningJourney)
 
 ## 📊My GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhiminnnnn&bg_color=ffffff&color=000000&line=14b8a6&point=000000&area=true&hide_border=true)
