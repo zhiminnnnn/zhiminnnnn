@@ -30,11 +30,11 @@ Year 1 Semester 1
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
 - Bachelor of Computer Science (Data Engineering) with Honours
-- CGPA: 
+- Current CGPA: 
 
 > *2024-2025: Universiti Teknologi Malaysia Kuala Lumpur*
 - Foundation in Physical Science
-- Current CGPA: 4.00
+- CGPA: 4.00
 - MUET Band 4.0
 
 > *2019-2023: SMJK Chung Ling Butterworth*
