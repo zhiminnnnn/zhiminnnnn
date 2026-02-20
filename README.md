@@ -30,7 +30,7 @@ Year 1 Semester 1
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
 - Bachelor of Computer Science (Data Engineering) with Honours
-- Current CGPA: 
+- Current CGPA: 4.00
 
 > *2024-2025: Universiti Teknologi Malaysia Kuala Lumpur*
 - Foundation in Physical Science
