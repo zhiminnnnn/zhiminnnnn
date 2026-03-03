@@ -5,8 +5,6 @@
   
 ![Static Badge](https://img.shields.io/badge/Computer%20Science%20(Data%20Engineering)%20undergraduate%20@%20Universiti%20Teknologi%20Malaysia%20(UTM)-black?style=for-the-badge)
 
-**E-portfolio website: [zhiminnnnn.github.io](https://zhiminnnnn.github.io)**
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminnnnn)
 ![snake gif](https://github.com/zhiminnnnn/zhiminnnnn/blob/output/github-snake.svg)
@@ -63,6 +61,7 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🗃️Important GitHub Repos
