@@ -3,7 +3,7 @@
 </h1>
 <div align="center">
   
-![Static Badge](https://img.shields.io/badge/Computer%20Science%20(Data%20Engineering)%20undergraduate%20@%20Universiti%20Teknologi%20Malaysia%20(UTM)-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Computer%20Science%20(Data%20Engineering)%20undergraduate%20@%20Universiti%20Teknologi%20Malaysia-black?style=for-the-badge)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chengzhimin@graduate.utm.my)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminnnnn)
