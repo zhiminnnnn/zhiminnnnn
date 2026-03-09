@@ -13,8 +13,8 @@
 ## 🚀Recent Projects
 | Title | Description | Link |
 | - | - | :-: |
-|Design Thinking: Food Waste Analytics|***Re-Saji*** — a low-fidelity prototype that uses real-time bookings, AI prediction, and behavior incentives to reduce food waste in UTM cafeterias by aligning food preparation with actual student demand.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)|
 |Deeds Simulation: Advance Lift Controller System|To design a secure, simulated lift controller system featuring 3-bit synchronous counters for floor navigation and a 4-digit password authentication mechanism with a limited-attempt security protocol.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL/blob/main/Project.md)|
+|Design Thinking: Food Waste Analytics|***Re-Saji*** — a low-fidelity prototype that uses real-time bookings, AI prediction, and behavior incentives to reduce food waste in UTM cafeterias by aligning food preparation with actual student demand.|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS/blob/main/Design%20Thinking%20Project.md)|
 
 ## 📚Courses
 Year 1 Semester 1
@@ -24,6 +24,15 @@ Year 1 Semester 1
 |SECJ1013|Programming Technique 1|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
 |SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
 |SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
+
+Year 1 Semester 2
+| Code | Course | Link |
+| - | - | :-: |
+|SECI1143|Probability & Statistical Data Analysis|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
+|SECJ1023|Programming Technique 2|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
+|SECP2613|System Analysis & Design|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
+|SECR1033|Computer Organization & Architecture|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
+|SECV2113|Human Computer Interaction|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
 
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
