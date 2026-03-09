@@ -25,15 +25,6 @@ Year 1 Semester 1
 |SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
 |SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
 
-Year 1 Semester 2
-| Code | Course | Link |
-| - | - | :-: |
-|SECI1143|Probability & Statistical Data Analysis|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
-|SECJ1023|Programming Technique 2|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
-|SECP2613|System Analysis & Design|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
-|SECR1033|Computer Organization & Architecture|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
-|SECV2113|Human Computer Interaction|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
-
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
 - Bachelor of Computer Science (Data Engineering) with Honours
