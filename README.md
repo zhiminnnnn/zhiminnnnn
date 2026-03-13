@@ -42,7 +42,7 @@ Year 1 Semester 1
 - MUET Band 4.0
 
 > *2019-2023: SMJK Chung Ling Butterworth*
-- SPM: 9A (Math A+, Physics A+, AddMath A, Chemistry A)
+- SPM: 9A
 - Co-curriculum: 9.15
 
 ---
