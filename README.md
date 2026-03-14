@@ -20,17 +20,6 @@
 
 ---
 
-## 📚Courses
-Year 1 Semester 1
-| Code | Course | Link |
-| - | - | :-: |
-|SECI1013|Discrete Structure|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
-|SECJ1013|Programming Technique I|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
-|SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
-|SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
-
----
-
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
 - Bachelor of Computer Science (Data Engineering) with Honours
@@ -51,7 +40,7 @@ Year 1 Semester 1
 Universiti Teknologi Malaysia
 ```yaml
 Losting Music Club
-=> 2025-Present: Active Member
+=> 2025-Present: Committee Member / Performer
 ```
 SMJK Chung Ling Butterworth
 ```yaml
