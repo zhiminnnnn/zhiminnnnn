@@ -54,13 +54,7 @@ Chung Ling Butterworth Wind Orchestra (CLBWO)
 ## 📚Courses
 [Year 1 Semester 2](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%202)
 
-Year 1 Semester 1
-| Code | Course | Link |
-| - | - | :-: |
-|SECI1013|Discrete Structure|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DS)|
-|SECJ1013|Programming Technique I|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/PT1)|
-|SECP1513|Technology & Information System|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/TIS)|
-|SECR1013|Digital Logic|[![Static Badge](https://img.shields.io/badge/view-blue)](https://github.com/zhiminnnnn/DL)|
+[Year 1 Semester 1](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%201)
 
 ---
 
