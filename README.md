@@ -36,32 +36,10 @@
 
 ---
 
-## 🤝Position
-Universiti Teknologi Malaysia
-```yaml
-Losting Music Club
-=> 2025-Present: Committee Member / Performer
-```
-SMJK Chung Ling Butterworth
-```yaml
-Chung Ling Butterworth Wind Orchestra (CLBWO)
-=> 2022-2023: Vice President
-=> 2021-2023: Section Leader
-=> 2019-2023: Active Member
-```
----
-
 ## 📚Courses
 [Year 1 Semester 2](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%202)
 
 [Year 1 Semester 1](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%201)
-
----
-
-## 🛠️Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
