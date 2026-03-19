@@ -24,24 +24,21 @@
 
 ## 🎓Education
 > *2025-Present: Universiti Teknologi Malaysia Johor Bahru*
-- Bachelor of Computer Science (Data Engineering) with Honours
-- Current CGPA: 4.00
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Bachelor of Computer Science (Data Engineering) with Honours | Current CGPA: 4.00`
 
 > *2024-2025: Universiti Teknologi Malaysia Kuala Lumpur*
-- Foundation in Physical Science
-- CGPA: 4.00
-- MUET Band 4.0
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Foundation in Physical Science | CGPA 4.00 | MUET Band 4.0`
 
 > *2019-2023: SMJK Chung Ling Butterworth*
-- SPM: 9A
-- Co-curriculum: 9.15
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `SPM 9A | Co-curriculum: 9.15`
 
 ---
 
 ## 📚Courses
-[Semester 2, 2025/2026](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%202)
-
-[Semester 1, 2025/2026](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%201)
+[Semester 1, 2025/2026](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%201) &nbsp;&nbsp; [Semester 2, 2025/2026](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%202)
 
 ---
 
