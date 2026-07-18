@@ -28,7 +28,7 @@
 ---
 
 ## 📚Courses
-[Semester 1, 2025/2026](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%201) &nbsp;&nbsp; [Semester 2, 2025/2026](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%202)
+[Y1S1](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%201) &nbsp;&nbsp; [Y1S2](https://github.com/zhiminnnnn/dataEngDeg/tree/main/Year%201%20Semester%202)
 
 ---
 
